@@ -1,0 +1,30 @@
+[
+  {
+    "id": "b-001",
+    "customerId": "c-001",
+    "roomId": "r-102",
+    "checkIn": "2025-10-18T14:00:00.000Z",
+    "checkOut": "2025-10-20T12:00:00.000Z",
+    "status": "CONFIRMED",
+    "guests": 2,
+    "services": [{"serviceId":"s-breakfast","quantity":2,"price":150000}],
+    "totalPrice": 1500000,
+    "source": "WEB",
+    "createdAt": "2025-10-01T00:00:00.000Z",
+    "updatedAt": "2025-10-10T00:00:00.000Z"
+  },
+  {
+    "id": "b-002",
+    "customerId": "c-002",
+    "roomId": "r-201",
+    "checkIn": "2025-10-22T14:00:00.000Z",
+    "checkOut": "2025-10-25T12:00:00.000Z",
+    "status": "PENDING",
+    "guests": 2,
+    "services": [],
+    "totalPrice": 5200000,
+    "source": "PHONE",
+    "createdAt": "2025-10-12T00:00:00.000Z",
+    "updatedAt": "2025-10-12T00:00:00.000Z"
+  }
+]

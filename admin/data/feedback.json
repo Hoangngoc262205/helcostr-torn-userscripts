@@ -1,0 +1,21 @@
+[
+  {
+    "id": "f-001",
+    "customerId": "c-001",
+    "bookingId": "b-001",
+    "rating": 5,
+    "comment": "Rất hài lòng!",
+    "status": "RESOLVED",
+    "createdAt": "2025-10-11T00:00:00.000Z",
+    "updatedAt": "2025-10-12T00:00:00.000Z"
+  },
+  {
+    "id": "f-002",
+    "customerId": "c-003",
+    "rating": 3,
+    "comment": "Ổn",
+    "status": "NEW",
+    "createdAt": "2025-10-15T00:00:00.000Z",
+    "updatedAt": "2025-10-15T00:00:00.000Z"
+  }
+]

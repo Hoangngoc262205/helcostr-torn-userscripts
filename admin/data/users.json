@@ -1,0 +1,38 @@
+[
+  {
+    "id": "u-admin",
+    "name": "Admin",
+    "email": "admin@example.com",
+    "phone": "+84 900 000 001",
+    "roles": ["ADMIN", "MANAGER"],
+    "status": "ACTIVE",
+    "avatarUrl": "/avatar/admin.png",
+    "password": "admin123",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "updatedAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "u-rec1",
+    "name": "Le Tan 1",
+    "email": "reception1@example.com",
+    "phone": "+84 900 000 002",
+    "roles": ["RECEPTIONIST"],
+    "status": "ACTIVE",
+    "avatarUrl": "/avatar/rec1.png",
+    "password": "secret123",
+    "createdAt": "2025-01-02T00:00:00.000Z",
+    "updatedAt": "2025-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "u-acc1",
+    "name": "Ke Toan 1",
+    "email": "accounting1@example.com",
+    "phone": "+84 900 000 003",
+    "roles": ["ACCOUNTANT"],
+    "status": "ACTIVE",
+    "avatarUrl": "/avatar/acc1.png",
+    "password": "secret123",
+    "createdAt": "2025-01-03T00:00:00.000Z",
+    "updatedAt": "2025-01-03T00:00:00.000Z"
+  }
+]

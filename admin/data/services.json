@@ -1,0 +1,30 @@
+[
+  {
+    "id": "s-spa",
+    "name": "Spa thư giãn",
+    "description": "Liệu trình spa 60 phút",
+    "price": 500000,
+    "status": "ACTIVE",
+    "category": "SPA",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2025-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "s-breakfast",
+    "name": "Bữa sáng",
+    "price": 150000,
+    "status": "ACTIVE",
+    "category": "FOOD",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2025-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "s-airport",
+    "name": "Đưa đón sân bay",
+    "price": 300000,
+    "status": "INACTIVE",
+    "category": "TRANSFER",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2025-10-01T00:00:00.000Z"
+  }
+]
