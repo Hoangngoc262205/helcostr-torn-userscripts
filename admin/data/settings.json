@@ -1,0 +1,10 @@
+{
+  "name": "Khach San Demo",
+  "address": "1 Nguyen Hue, Q1, TP.HCM",
+  "logoUrl": "/logo.png",
+  "hotline": "+84 28 1234 5678",
+  "email": "contact@hotel-demo.vn",
+  "currency": "VND",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "language": "vi"
+}

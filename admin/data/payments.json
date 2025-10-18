@@ -1,0 +1,16 @@
+[
+  {
+    "id": "p-001",
+    "bookingId": "b-001",
+    "amount": 1500000,
+    "method": "CARD",
+    "status": "PAID",
+    "invoiceNumber": "INV-2025-0001",
+    "items": [
+      {"name": "Tiền phòng", "quantity": 2, "price": 600000},
+      {"name": "Bữa sáng", "quantity": 2, "price": 150000}
+    ],
+    "createdAt": "2025-10-10T00:00:00.000Z",
+    "updatedAt": "2025-10-10T00:00:00.000Z"
+  }
+]

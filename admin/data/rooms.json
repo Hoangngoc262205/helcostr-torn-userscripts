@@ -1,0 +1,44 @@
+[
+  {
+    "id": "r-101",
+    "number": "101",
+    "name": "Phòng Đơn 101",
+    "category": "SINGLE",
+    "status": "AVAILABLE",
+    "price": 800000,
+    "images": ["/rooms/101.jpg"],
+    "amenities": ["Wifi", "TV"],
+    "floor": 1,
+    "capacity": 1,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2025-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "r-102",
+    "number": "102",
+    "name": "Phòng Đôi 102",
+    "category": "DOUBLE",
+    "status": "BOOKED",
+    "price": 1200000,
+    "images": ["/rooms/102.jpg"],
+    "amenities": ["Wifi", "TV", "Mini-bar"],
+    "floor": 1,
+    "capacity": 2,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2025-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "r-201",
+    "number": "201",
+    "name": "Suite 201",
+    "category": "SUITE",
+    "status": "CLEANING",
+    "price": 2500000,
+    "images": ["/rooms/201.jpg"],
+    "amenities": ["Wifi", "TV", "Mini-bar", "Bồn tắm"],
+    "floor": 2,
+    "capacity": 3,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2025-10-01T00:00:00.000Z"
+  }
+]

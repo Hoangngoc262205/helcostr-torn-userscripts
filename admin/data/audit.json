@@ -1,0 +1,9 @@
+[
+  {
+    "id": "log-001",
+    "userId": "u-admin",
+    "action": "INIT_SEED",
+    "metadata": {"note": "Initial data seed"},
+    "createdAt": "2025-10-18T00:00:00.000Z"
+  }
+]
